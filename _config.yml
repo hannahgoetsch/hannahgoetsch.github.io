@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Hannah Götsch"
 title_separator          : "-"
 name                     : &name "Hannah Götsch"
-description              : &description "PostDoc in theoretical population genetics"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "postdoc in theoretical population genetics"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://hannahgoetsch.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ repository               : "hannahgoetsch/hannahgoetsch.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hannah Götsch, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "postdoc in theoretical population genetics"
   location         : "Giessen"
   employer         : "JLU Giessen"
   uri              : # URL
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Hannah-Goetsch"
   scopus           : # URL
   zotero           : # URL
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Hannah Götsch" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
