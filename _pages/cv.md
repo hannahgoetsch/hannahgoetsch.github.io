@@ -11,27 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, University of Vienna, 2024
+* M.S. in Mathematics, University of Vienna, 2019
+* B.S. in Mathematics, University of Vienna, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* since January 2026: Scientific Staff (PostDoc)
+  * Justus-Liebig University Giessen
+  * Institute of Bioinformatics and Systems Biology
+  * "Big Data Analytics in Bioinformatics"-group
+  * Supervisor: Franz Baumdicker
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2024 - December 2025: Scientific Staff (PostDoc)
+  * University of Tuebingen
+  * Clusters of Excellence "Controlling Microbes to Fight Infections" (CMFI) and "Machine Learning: New Perspectives for Science"
+  * "Mathematical and Computational Population Genetics"-group
+  * Supervisor: Franz Baumdicker
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+<!--  
 Skills
 ======
 * Skill 1
@@ -61,4 +59,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* xxx
+-->
