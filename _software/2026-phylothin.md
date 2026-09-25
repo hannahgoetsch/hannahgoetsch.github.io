@@ -1,7 +1,6 @@
 ---
 title: "PhyloThin - identifying sampling bias in bacterial genome databases"
 collection: software
-permalink: /software/2026-phylothin
 excerpt: '<img src="https://hannahgoetsch.github.io/images/phylothin.jpg"
           alt="Logo"
           width="100"><br/>
