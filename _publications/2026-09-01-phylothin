@@ -1,0 +1,12 @@
+---
+title: "Hidden but expanding sampling bias distorts prokaryotic genome collections"
+collection: publications
+category: preprints
+permalink: /publication/2026-09-01-phylothin
+excerpt: 'This paper is about fixing template issue #693.'
+date: 2026-09-01
+venue: 'bioRxiv'
+softwareurl: 'https://github.com/fbaumdicker/phylothin'
+citation: 'Götsch H and Baumdicker F. Hidden but expanding sampling bias distorts prokaryotic genome collections. Preprint on bioRxiv (September 2026)'
+---
+paperurl: 'https://academicpages.github.io/files/paper3.pdf'
