@@ -2,7 +2,7 @@
 title: "Polygenic dynamics underlying the response of quantitative traits to directional selection"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-08-01-Polygenicdynamicsunderlyingtheresponseofquantitativetraitstodirectionalselection.md
+permalink: /publication/2024-08-01-Polygenicdynamicsunderlyingtheresponseofquantitativetraitstodirectionalselection
 excerpt: 'This paper provides a theoretical framework for understanding the response of a quantitative trait to directional selection at the genetic and the phenotypic level.'
 date: 2024-08-01
 venue: 'Theoretical Population Biology'
