@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+date: 2112-08-14
+permalink: /posts/2112/08/blog-post-1/
 tags:
   - cool posts
   - category1
@@ -9,6 +9,8 @@ tags:
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+
+This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
 
 Headings are cool
 ======
