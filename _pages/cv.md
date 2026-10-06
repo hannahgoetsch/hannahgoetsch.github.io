@@ -14,6 +14,7 @@ I am a researcher in theoretical population genetics, holding a PhD in biomathem
 Education
 ======
 * Ph.D in Mathematics, [University of Vienna](https://biomathematics.univie.ac.at/people/former-members-and-alumni), 2024
+  * Supervisor: [Reinhard Bürger](https://homepage.univie.ac.at/reinhard.buerger/)
   * [Vienna Graduate School of Population Genetics](https://www.popgen-vienna.at/people/alumni/)
   * [Vienna School of Mathematics](https://www.vsmath.at/people/alumni/)
   * [Mathematics and BioSciences Group (MaBS)](https://www.mabs.at/team/former-members/)
