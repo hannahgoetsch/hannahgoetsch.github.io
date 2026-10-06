@@ -13,10 +13,10 @@ I am a researcher in theoretical population genetics, holding a PhD in biomathem
 
 Education
 ======
-* Ph.D in Mathematics, (University of Vienna)[https://biomathematics.univie.ac.at/people/former-members-and-alumni], 2024
-  * (Vienna Graduate School of Population Genetics)[https://www.popgen-vienna.at/people/alumni/]
-  * (Vienna School of Mathematics)[https://www.vsmath.at/people/alumni/]
-  * (Mathematics and BioSciences Group (MaBS))[https://www.mabs.at/team/former-members/]
+* Ph.D in Mathematics, [University of Vienna](https://biomathematics.univie.ac.at/people/former-members-and-alumni), 2024
+  * [Vienna Graduate School of Population Genetics](https://www.popgen-vienna.at/people/alumni/)
+  * [Vienna School of Mathematics](https://www.vsmath.at/people/alumni/)
+  * [Mathematics and BioSciences Group (MaBS)](https://www.mabs.at/team/former-members/)
 * M.Sc. in Mathematics, University of Vienna, 2019
 * B.Sc. in Mathematics, University of Vienna, 2017
 
@@ -24,7 +24,7 @@ Work experience
 ======
 * since January 2026: PostDoc
   * Justus-Liebig University Giessen - Institute of Bioinformatics and Systems Biology
-  * "Big Data Analytics in Bioinformatics" (group by Franz Baumdicker)
+  * ["Big Data Analytics in Bioinformatics"](https://www.baumdickergroup.de/index.php/people) (group by Franz Baumdicker)
 
 * May 2024 - December 2025: PostDoc
   * University of Tübingen - Clusters of Excellence "Controlling Microbes to Fight Infections" (CMFI) and "Machine Learning: New Perspectives for Science"
