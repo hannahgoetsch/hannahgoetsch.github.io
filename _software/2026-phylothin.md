@@ -4,5 +4,5 @@ collection: software
 excerpt: '<img src="https://hannahgoetsch.github.io/images/phylothin.jpg"
           alt="Logo"
           width="100"><br/>
-     When analyzing the diversity of bacterial populations it is important to consider a potential sampling bias that can distort your pangenome analysis. Our tool PhyloThin is a coalescent-theory-based approach to identify prokaryotic genomes that can be considered as oversampled. For access to PhyloThin, check out our [github repository](https://github.com/fbaumdicker/phylothin).'
+     When analyzing the diversity of bacterial populations, it is important to consider potential sampling bias, which can distort your pangenome analyses. Our tool PhyloThin is a coalescent-theory-based approach to identify prokaryotic genomes that can be considered as oversampled. For access to PhyloThin, check out our [GitHub repository](https://github.com/fbaumdicker/phylothin).'
 ---
